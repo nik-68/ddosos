@@ -7,7 +7,7 @@ import urllib.request
 import os
 import sys
 
-
+os.system("clear")
 print (''' \033[92m
   ____  ____             __  __         
  |  _ \|  _ \  ___  ___  \ \/ /___  ___ 
